@@ -23,8 +23,12 @@
             "id": "3c2d970d2da5f0b7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "about.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -126,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "about.md"
+              }
             }
           }
         ],
@@ -173,8 +181,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0e917dba634f191d",
+  "active": "3c2d970d2da5f0b7",
   "lastOpenFiles": [
+    "page.md",
     "tags.md",
     "about.md",
     "Выступления.md",
@@ -183,7 +192,6 @@
     "draft/draft.md",
     "Статьи/index.md",
     "draft/ПроМенеджемент/202107221836 про структуру задач.md",
-    "draft/ПроМенеджемент/Про подготовку требований к разработке.md",
-    "draft/ПроМенеджемент/20220926 Мысли про управление проектами и разработкой.md"
+    "draft/ПроМенеджемент/Про подготовку требований к разработке.md"
   ]
 }
