@@ -1,4 +1,5 @@
 site_name: Сайт и блог Бориса Романова
+copyright: Copyright &copy; 2022 Boris Romanov
 
 theme:
     name: material
@@ -14,11 +15,11 @@ plugins:
         lang: ru
   - callouts
   - tags:
-      tags_file: tags.md
+      tags_file: index.md
   - exclude:
       glob:
         - draft/*
-        
+
 markdown_extensions:
   - nl2br
   - admonition
