@@ -8,5 +8,14 @@ theme:
         accent: purple
 
 plugins:
+  - search
+  - callouts
   - tags:
       tags_file: tags.md
+
+
+markdown_extensions:
+  - nl2br
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences

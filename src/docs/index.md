@@ -3,18 +3,23 @@ tags:
     - tag2
     - token
 ---
-# Welcome to MkDocs
+# Добро пожаловать
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## 🚧🚧🚧
+Тут пока все сильно under construction 
 
-## Commands
+## Пункт 1
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+> [!note] Пример заметки
+> * `mkdocs new [dir-name]` - Create a new project.
+> *  `mkdocs serve` - Start the live-reloading docs server.
+> * `mkdocs build` - Build the documentation site.
+> * `mkdocs -h` - Print help message and exit.
 
-## Project layout
+> [!hint]
+> Кстати, сайт собран на Markdown + Mkdocs, поэтому тут пока много разного и странного от примера по умолчанию
+
+## Пункт 2
 
     mkdocs.yml    # The configuration file.
     docs/
