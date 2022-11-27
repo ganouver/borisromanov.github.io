@@ -2,13 +2,16 @@ site_name: Сайт и блог Бориса Романова
 
 theme:
     name: material
+    language: ru
     palette:
         scheme: slate
         primary: amber
         accent: purple
 
+
 plugins:
-  - search
+  - search:
+        lang: ru
   - callouts
   - tags:
       tags_file: tags.md
