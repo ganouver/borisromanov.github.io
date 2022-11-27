@@ -15,8 +15,10 @@ plugins:
   - callouts
   - tags:
       tags_file: tags.md
-
-
+  - exclude:
+      glob:
+        - draft/*
+        
 markdown_extensions:
   - nl2br
   - admonition

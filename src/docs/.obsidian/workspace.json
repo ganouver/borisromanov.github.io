@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "7d225da2339eca6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3bbb080c8217c54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a79453b5ef56e6a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e9a0a3c5a80fe0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "599f8cab21791ac0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "673f020168d83893",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a7b030aed71d744",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e917dba634f191d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc822dbbb762426b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b49f9c373773451",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6160a585d51c6b58",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f447498e6b75e0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "859bf26319084733",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a79ead25fd80349",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2055d28e827d185a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "49ebd600f434ad2c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "599f8cab21791ac0",
+  "lastOpenFiles": [
+    "Статьи/index.md",
+    "index.md",
+    "Статьи/Рецепт приготовления программных продуктов.md",
+    "draft/ПроМенеджемент/202107221836 про структуру задач.md",
+    "draft/ПроМенеджемент/Про подготовку требований к разработке.md",
+    "draft/ПроМенеджемент/20220926 Мысли про управление проектами и разработкой.md",
+    "draft/ПроМенеджемент/!Управление поставками (оглавление).md",
+    "draft/draft.md",
+    "page.md",
+    "tags.md"
+  ]
+}
