@@ -1,0 +1,12 @@
+site_name: Сайт и блог Бориса Романова
+
+theme:
+    name: material
+    palette:
+        scheme: slate
+        primary: amber
+        accent: purple
+
+plugins:
+  - tags:
+      tags_file: tags.md
