@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "Выступления.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about.md",
+                "file": "Выступления.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about.md",
+                "file": "Выступления.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about.md"
+                "file": "Выступления.md"
               }
             }
           }
@@ -183,9 +183,9 @@
   },
   "active": "3c2d970d2da5f0b7",
   "lastOpenFiles": [
+    "about.md",
     "page.md",
     "tags.md",
-    "about.md",
     "Выступления.md",
     "index.md",
     "Статьи/Рецепт приготовления программных продуктов.md",
