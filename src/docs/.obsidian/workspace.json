@@ -4,67 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e3bbb080c8217c54",
+        "id": "1262f75f69a55cd1",
         "type": "tabs",
         "children": [
           {
-            "id": "a79453b5ef56e6a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c2d970d2da5f0b7",
+            "id": "33f2b00ebd3cbe27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Выступления.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "2e9a0a3c5a80fe0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "599f8cab21791ac0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6484fc7730db76f9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,17 +136,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3c2d970d2da5f0b7",
+  "active": "33f2b00ebd3cbe27",
   "lastOpenFiles": [
+    "draft/ПроМенеджемент/Шаблон устава проекта.md",
+    "index.md",
+    "Выступления.md",
     "about.md",
     "page.md",
     "tags.md",
-    "Выступления.md",
-    "index.md",
     "Статьи/Рецепт приготовления программных продуктов.md",
     "draft/draft.md",
     "Статьи/index.md",
-    "draft/ПроМенеджемент/202107221836 про структуру задач.md",
-    "draft/ПроМенеджемент/Про подготовку требований к разработке.md"
+    "draft/ПроМенеджемент/202107221836 про структуру задач.md"
   ]
 }
