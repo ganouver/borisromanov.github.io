@@ -13,4 +13,4 @@ tags:
 ---
 
 ## Cсылки
-- Профиль на habr.com](https://habr.com/ru/users/ganouver/)
+- [Профиль на habr.com](https://habr.com/ru/users/ganouver/)
