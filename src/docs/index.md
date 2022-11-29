@@ -11,6 +11,6 @@ tags:
 - [Выступления](Выступления.md)
 
 ---
-## Теги
 
-[TAGS]
+## Cсылки
+- Профиль на habr.com](https://habr.com/ru/users/ganouver/)

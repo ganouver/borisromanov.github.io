@@ -15,7 +15,7 @@ plugins:
         lang: ru
   - callouts
   - tags:
-      tags_file: index.md
+      tags_file: tags.md
   - exclude:
       glob:
         - draft/*

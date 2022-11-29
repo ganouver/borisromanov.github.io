@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Выступления.md",
-                "mode": "preview",
+                "file": "Статьи/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9078068a4397bc0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Статьи/Рецепт приготовления программных продуктов.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Выступления.md",
+                "file": "Статьи/Рецепт приготовления программных продуктов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Выступления.md",
+                "file": "Статьи/Рецепт приготовления программных продуктов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Выступления.md"
+                "file": "Статьи/Рецепт приготовления программных продуктов.md"
               }
             }
           }
@@ -136,17 +149,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "33f2b00ebd3cbe27",
+  "active": "9078068a4397bc0e",
   "lastOpenFiles": [
-    "draft/ПроМенеджемент/Шаблон устава проекта.md",
     "index.md",
+    "tags.md",
+    "Статьи/index.md",
+    "Статьи/Рецепт приготовления программных продуктов.md",
     "Выступления.md",
+    "draft/ПроМенеджемент/Шаблон устава проекта.md",
     "about.md",
     "page.md",
-    "tags.md",
-    "Статьи/Рецепт приготовления программных продуктов.md",
     "draft/draft.md",
-    "Статьи/index.md",
     "draft/ПроМенеджемент/202107221836 про структуру задач.md"
   ]
 }
