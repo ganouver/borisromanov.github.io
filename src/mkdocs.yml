@@ -8,6 +8,7 @@ theme:
         scheme: slate
         primary: amber
         accent: purple
+    custom_dir: overrides
 
 
 plugins:
