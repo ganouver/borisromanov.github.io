@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "06f6415d068ec029",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Статьи/case-template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "draft/План статей.md",
+                "file": "Статьи/case-template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "draft/План статей.md",
+                "file": "Статьи/case-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "draft/План статей.md"
+                "file": "Статьи/case-template.md"
               }
             }
           }
@@ -136,17 +149,28 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c85310cd139bba41",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "06f6415d068ec029",
   "lastOpenFiles": [
-    "draft/ПроМенеджемент/🧠 Темы для размышлений.md",
     "draft/План статей.md",
-    "draft/ПроМенеджемент/Про оценку проектов.md",
-    "draft/ПроМенеджемент/Обсуждение структуры разработки.excalidraw.md",
+    "Статьи/case-template.md",
+    "Статьи/index.md",
+    "about.md",
+    "img/small.jpg",
+    "index.md",
+    "Выступления.md",
     "draft/ПроМенеджемент/перекосы_в_потоке_и_соответст.md",
-    "draft/ПроМенеджемент/управление проектом или производством.md",
-    "draft/ПроМенеджемент/Системная схема проекта.md",
-    "draft/ПроМенеджемент/Про подготовку требований к разработке.md",
-    "draft/ПроМенеджемент/!Управление поставками (оглавление).md",
-    "draft/draft.md"
+    "draft/ПроМенеджемент/🧠 Темы для размышлений.md",
+    "draft/ПроМенеджемент/Про оценку проектов.md",
+    "draft/ПроМенеджемент/Обсуждение структуры разработки.excalidraw.md"
   ]
 }
