@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Статьи/case-template.md",
+                "file": "draft/Systemdesign.online/analytics.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Статьи/case-template.md",
+                "file": "draft/Systemdesign.online/analytics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Статьи/case-template.md",
+                "file": "draft/Systemdesign.online/analytics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Статьи/case-template.md"
+                "file": "draft/Systemdesign.online/analytics.md"
               }
             }
           }
@@ -169,13 +169,15 @@
   },
   "active": "06f6415d068ec029",
   "lastOpenFiles": [
+    "draft/План статей.md",
+    "draft/Systemdesign.online/analytics.md",
+    "Статьи/case-template.md",
+    "draft/Systemdesign.online",
     "blog/posts/test.md",
     "Статьи/Untitled.md",
     "Выступления.md",
     "Статьи/Рецепт приготовления программных продуктов.md",
     "Статьи/index.md",
-    "Статьи/case-template.md",
-    "draft/План статей.md",
     "about.md",
     "img/small.jpg",
     "index.md",
